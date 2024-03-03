@@ -1,9 +1,9 @@
 # EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
 
-# DATE :
-# NAME :
-# ROLLNUMBER :
-# DEPARTMENT
+# DATE :1/03/2024
+# NAME :KUMARAVEL R
+# ROLLNUMBER :212221220029
+# DEPARTMENT:INFORMATION TECHNOLOGY
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
  
